@@ -12,7 +12,7 @@ In this task, I created a music player that allows users to select their music f
 This project was a fantastic learning experience, and I'm excited to continue developing my skills in Python. Thank you, CodeClause, for this amazing opportunity!
 
 Features:
-Select music folder
-Play songs by clicking on them
-Navigate to next or previous song
-Pause and stop functionality
+- Select music folder
+- Play songs by clicking on them
+- Navigate to next or previous song
+- Pause and stop functionality
